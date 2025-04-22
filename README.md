@@ -24,10 +24,14 @@
 
 📞 Contato
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=tokyonight&hide_border=true" /> </p>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" alt="polarStrxt stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=tokyonight&hide_border=true" alt="polarStrxt streak"/>
+</p>
+
+
 "A escuridão não é algo que se teme, é onde a mente mais brilhante encontra clareza." — Victtor Anderson Dezan
 
-yaml
-Copiar
-Editar
