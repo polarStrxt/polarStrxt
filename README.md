@@ -20,20 +20,19 @@
 🛠️ Tecnologias
 💙 Dart + Flutter — foco em experiências mobile elegantes
 
-☕ Java — com domínio em OOP e Estrutura de Dados
-
 📱 Desenvolvimento Mobile
 
-🔙 Fundamentos sólidos em Back-End
-
 📞 Contato
-✉️ Email: victtor.dezan@email.com
+✉️ Email: victtordezan@gmail.com
 
 💼 LinkedIn: SeuLinkedInAqui
 
 🧛‍♂️ GitHub: polarStrxt
 ```
 📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=tokyonight&hide_border=true" /> </p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=tokyonight&hide_border=true" />
+</div>
 "A escuridão não é algo que se teme, é onde a mente mais brilhante encontra clareza."
 — Victtor Anderson Dezan
