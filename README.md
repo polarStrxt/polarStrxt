@@ -10,37 +10,34 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&text=Bem-vindo(a)&fontAlign=38&fontColor=AAAAAA&color=0:0d0d0d,100:1a1a1a" />
 </div>
 
-### 🧠 Sobre mim
+---
 
-```bash
-💻 Nome: Victtor Anderson Dezan
-🌌 Estilo: Minimalista, sombrio e direto
-🦾 Missão: Ser um full-stack com o poder de um cavaleiro das trevas
-🚀 Stack atual: Dart/Flutter & Java
-🛠️ Tecnologias
-💙 Dart + Flutter — foco em experiências mobile elegantes
+### 🧠 Sobre Mim
 
-📱 Desenvolvimento Mobile
+Olá! Me chamo **Victtor Anderson Dezan**, sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** e atuo como **Desenvolvedor Front-End Júnior**, com foco em **desenvolvimento mobile utilizando Dart e Flutter**.
 
-📞 Contato
-✉️ Email: victtordezan@gmail.com
+Atualmente trabalho no projeto **MobileDuosig**, uma aplicação voltada para vendas, onde desenvolvo interfaces modernas, responsivas e alinhadas com boas práticas de usabilidade. Busco sempre escrever **código limpo, legível e de fácil manutenção**, prezando por qualidade e organização.
 
-💼 LinkedIn: SeuLinkedInAqui
+Sou apaixonado por tecnologia e estou em constante evolução, estudando também **Java, Estrutura de Dados, Banco de Dados e redes de computadores** para ampliar minhas habilidades e me tornar um futuro **Desenvolvedor Full Stack**.
 
-🧛‍♂️ GitHub: polarStrxt
-```
-📊 GitHub Stats
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" />
-    </td>
-  </tr>
-</table>
-"A escuridão não é algo que se teme, é onde a mente mais brilhante encontra clareza."
-— Victtor Anderson Dezan
+Tenho facilidade para aprender, me adaptar a novos desafios e colaborar em equipe. Estou sempre pronto para contribuir em projetos que façam a diferença.
 
+---
+
+### 📞 Contato
+
+- ✉️ Email: [victtordezan@gmail.com](mailto:victtordezan@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/victtor-dezan-b25a592bb](https://www.linkedin.com/in/victtor-dezan-b25a592bb/)
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=polarStrxt&show_icons=true&theme=tokyonight&hide_border=true" />
+</div>
+
+---
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
-
