@@ -12,36 +12,34 @@
 
 ---
 
-### 🧠 Sobre Mim
+# Victtor Anderson Dezan
 
-Olá! Me chamo **Victtor Anderson Dezan**, sou estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas** e atuo como **Desenvolvedor Front-End Júnior**, com foco em **desenvolvimento mobile utilizando Dart e Flutter**.
+Desenvolvedor Front-End Júnior | Estudante de Análise e Desenvolvimento de Sistemas
 
-Atualmente trabalho no projeto **MobileDuosig**, uma aplicação voltada para vendas, onde desenvolvo interfaces modernas, responsivas e alinhadas com boas práticas de usabilidade. Busco sempre escrever **código limpo, legível e de fácil manutenção**, prezando por qualidade e organização.
+## Sobre mim
+- 🎓 Estudante de **Tecnologia em Análise e Desenvolvimento de Sistemas**
+- 💻 Desenvolvedor Front-End Júnior focado em **Flutter e Dart**
+- 📱 Trabalhando no projeto **MobileDuosig** (aplicação de vendas)
+- 🌱 Estudando: Java, Estrutura de Dados, Banco de Dados
+- 🎯 Objetivo: me tornar Desenvolvedor Full Stack
 
-Sou apaixonado por tecnologia e estou em constante evolução, estudando também **Java, Estrutura de Dados, Banco de Dados e redes de computadores** para ampliar minhas habilidades e me tornar um futuro **Desenvolvedor Full Stack**.
+## Tecnologias
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-Tenho facilidade para aprender, me adaptar a novos desafios e colaborar em equipe. Estou sempre pronto para contribuir em projetos que façam a diferença.
-
----
-
-### 📞 Contato
-
-- ✉️ Email: [victtordezan@gmail.com](mailto:victtordezan@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/victtor-dezan-b25a592bb](https://www.linkedin.com/in/victtor-dezan-b25a592bb/)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=tokyonight&hide_border=true" />
-
+## Estatísticas
+<div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&theme=dark&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
 </div>
 
----
+## Contato
+- 📧 Email: [victtordezan@gmail.com](mailto:victtordezan@gmail.com)
+- 💼 LinkedIn: [victtor-dezan-b25a592bb](https://linkedin.com/in/victtor-dezan-b25a592bb)
 
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
