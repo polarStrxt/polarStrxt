@@ -39,7 +39,7 @@ Junior Front-End Developer | Systems Analysis and Development Student
 ## GitHub Stats
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&theme=dark&show_icons=true&hide_border=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
