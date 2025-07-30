@@ -22,6 +22,12 @@ Junior Front-End Developer | Systems Analysis and Development Student
 - 🌱 Learning: Java, Data Structures, Databases
 - 🎯 Goal: become a Full Stack Developer
 
+## Current Focus
+- 🔭 Building **MobileDuosig** - Modern sales application with Flutter
+- 📚 Deep diving into **Java** and **Back-End**
+- 🌐 Exploring **Database Design** and **Computer Networks**
+- 🚀 Preparing to become a **Full Stack Developer**
+
 ## Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
@@ -29,12 +35,6 @@ Junior Front-End Developer | Systems Analysis and Development Student
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-## Current Focus
-- 🔭 Building **MobileDuosig** - Modern sales application with Flutter
-- 📚 Deep diving into **Java** and **Data Structures**
-- 🌐 Exploring **Database Design** and **Computer Networks**
-- 🚀 Preparing to become a **Full Stack Developer**
 
 ## GitHub Stats
 <div>
