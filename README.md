@@ -37,12 +37,12 @@ Junior Front-End Developer | Systems Analysis and Development Student
 - 🚀 Preparing to become a **Full Stack Developer**
 
 ## GitHub Stats
-<div>
+<div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&theme=dark&show_icons=true&hide_border=true" />
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<div align="center">
+<div >
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=dark&hide_border=true" />
 </div>
 
