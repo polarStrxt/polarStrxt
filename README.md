@@ -39,18 +39,7 @@ Tenho facilidade para aprender, me adaptar a novos desafios e colaborar em equip
 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=tokyonight&hide_border=true" />
 
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=tokyonight&hide_border=true" />
-
 </div>
-
----
-
-### 🐍 Snake Game Contributions
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/polarStrxt/polarStrxt/output/github-contribution-grid-snake-dark.svg" />
-</div>
-
 
 ---
 
