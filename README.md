@@ -42,7 +42,7 @@ Junior Front-End Developer | Systems Analysis and Development Student
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-<div >
+<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=dark&hide_border=true" />
 </div>
 
