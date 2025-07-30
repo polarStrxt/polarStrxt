@@ -40,10 +40,11 @@ Junior Front-End Developer | Systems Analysis and Development Student
 <div>
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=polarStrxt&theme=dark&show_icons=true&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarStrxt&layout=compact&theme=dark&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=dark&hide_border=true" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=polarStrxt&theme=dark&hide_border=true" />
+  
 </div>
 
 ## What I'm Learning
