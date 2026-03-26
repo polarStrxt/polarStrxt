@@ -25,13 +25,16 @@ Junior Front-End Developer | Systems Analysis and Development Student
 ## Technologies
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat&logo=delphi&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=flat&logo=node.js&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Database-003B57?style=flat&logo=database&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=flat&logo=node.js&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+
+pode deixar a ultimas igual as primeiras?
 
 ## Current Focus
 - 🔭 Building **MobileDuosig** - Modern sales application with Flutter
@@ -54,7 +57,7 @@ Junior Front-End Developer | Systems Analysis and Development Student
 class MyJourney {
   final String currentRole = "Junior Front-End Developer";
   final List<String> expertise = ["Flutter", "Dart", "Mobile Development"];
-  final List<String> studying = ["Java", "Data Structures", "Databases"];
+  final List<String> studying = ["Delphi", "Data Structures", "Databases"];
   final String nextGoal = "Full Stack Developer";
   
   void codeLikeBatman() {
