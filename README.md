@@ -34,7 +34,6 @@ Junior Front-End Developer | Systems Analysis and Development Student
 ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 
-pode deixar a ultimas igual as primeiras?
 
 ## Current Focus
 - 🔭 Building **MobileDuosig** - Modern sales application with Flutter
